@@ -1,14 +1,8 @@
-ZDcmsalkxnasxmSx
-zmdmcljxdczlkcmz;k
-zcdjnxclkmdclkxcndcj
+#!/bin/bash
 
+ls
 
-##### Devops section ####
-
-
-
-###this is app section ###
+pwd
 
 
 
-###This is QA code####
