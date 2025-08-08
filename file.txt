@@ -2,7 +2,3 @@
 
 ks
 
-pwd
-
-whoami
-
